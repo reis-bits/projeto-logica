@@ -19,9 +19,9 @@ while (resposta != numeroSecreto) {
     }
 }
 
-let tentativa = tentativas > 1? 'tentativas' : 'tentativa'
+let tentativaPalavra = tentativas > 1? 'tentativas' : 'tentativa'
 
-alert(`Você acertou o número secreto ${numeroSecreto} com ${tentativas} ${tentativa}.`);
+alert(`Você acertou o número secreto ${numeroSecreto} com ${tentativas} ${tentativaPalavra}.`);
 
 /*if (tentativas > 1) {
     alert(`Você acertou o número secreto ${numeroSecreto} com ${tentativas} tentativas!`);
