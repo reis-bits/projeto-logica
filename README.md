@@ -1,3 +1,3 @@
 # projeto-logica
  
-Projeto do curso e formação de lógica de programação da Alura.
+Projeto introdutório do curso e formação de lógica de programação da Alura.
